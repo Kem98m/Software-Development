@@ -1,0 +1,5 @@
+ballX,50
+ballY,50
+ballXVel,1
+ballYVel,1
+event,brick_destroyed
